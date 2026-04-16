@@ -38,13 +38,13 @@
     "publish:dry-run": "npm run prepublish && npm publish --dry-run"
   },
   "devDependencies": {
-    "typescript": "^5.7.0",
-    "vitest": "^2.1.8",
-    "@vitest/ui": "^2.1.8",
-    "@vitest/coverage-v8": "^2.1.8",
-    "vite-tsconfig-paths": "^5.1.4",
-    "eslint": "^9.18.0",
-    "@eslint/js": "^9.18.0",
-    "typescript-eslint": "^8.19.1"
+    "typescript": "5.9.3",
+    "vitest": "2.1.9",
+    "@vitest/ui": "2.1.9",
+    "@vitest/coverage-v8": "2.1.9",
+    "vite-tsconfig-paths": "5.1.4",
+    "eslint": "9.39.2",
+    "@eslint/js": "9.39.2",
+    "typescript-eslint": "8.50.1"
   }
 }

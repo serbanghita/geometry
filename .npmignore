@@ -1,0 +1,14 @@
+# Dev/build tooling
+.claude/
+eslint.config.mjs
+tsconfig.json
+vite.config.ts
+
+# Tests
+src/**/*.test.ts
+
+# Docs
+CLAUDE.md
+
+# Coverage
+coverage/
